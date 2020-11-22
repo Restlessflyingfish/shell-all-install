@@ -1,1 +1,2 @@
-# shell-all-install
+＃该仓库包含诸多shell
+该仓库的所有shell基本都是一键安装各类中间件，可随意大家使用。shell中含有使用说明。
