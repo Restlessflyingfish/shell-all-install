@@ -1,1 +1,1 @@
-FROM  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:master
+FROM  quay.io/jetstack/cert-manager-controller:v1.0.4
