@@ -1,1 +1,1 @@
-FROM  quay.io/jetstack/cert-manager-cainjector:v1.0.4
+FROM  rancher/rancher:v2.5.9
