@@ -1,1 +1,1 @@
-FROM  rancher/rancher:v2.5.9
+FROM  quay.io/coreos/flannel:v0.13.0-rc2
